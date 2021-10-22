@@ -1,4 +1,4 @@
-import '.Content.css'
+import './Content.css'
 import React from 'react'
 import { Switch, Route } from 'react-router-dom'
 import Home from '../../views/contents/Home'
